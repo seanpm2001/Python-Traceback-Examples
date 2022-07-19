@@ -21,18 +21,18 @@
 *.yaml linguist-documentation=false
 *.yaml linguist-language=YAML
 # ReStructuredText
-*.rst linguist-detectable=true
+*.rst linguist-detectable=false
 *.rst linguist-documentation=false
 *.rst linguist-language=reStructuredText
 # SVG
-*.svg linguist-detectable=true
+*.svg linguist-detectable=false
 *.svg linguist-documentation=false
 *.svg linguist-language=SVG
 # INI
-*.ini linguist-detectable=true
+*.ini linguist-detectable=false
 *.ini linguist-documentation=false
 *.ini linguist-language=INI
-*.cfg linguist-detectable=true
+*.cfg linguist-detectable=false
 *.cfg linguist-documentation=false
 *.cfg linguist-language=INI
 # KDE Desktop entry
@@ -90,16 +90,16 @@
 *.xhtml linguist-documentation=false
 *.xhtml linguist-language=HTML
 # CSS (Cascade Styling Sheets) stylesheet file
-*.css linguist-detectable=true
+*.css linguist-detectable=false
 *.css linguist-documentation=false
 *.css linguist-language=CSS
 # JSON (JavaScript Object Notation) source file
-*.json linguist-detectable=true
+*.json linguist-detectable=false
 *.json linguist-documentation=false
 *.json linguist-language=JSON
 # End of linguist script
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Tuesday, July 19th at 2:52 pm PST)
+# File version: 6 (2022, Tuesday, July 19th at 2:57 pm PST)
 # Line count (including blank lines and compiler line): 106
 # End of script
